@@ -1,0 +1,12 @@
+#sort
+list=[1,7,9,3,0,6,54,78,23,99]
+list.sort()
+print(list)
+#reverse
+list=[1,7,9,3,0,6,54,78,23,99]
+list.reverse()
+print(list)
+#append
+list=[1,7,9,3,0,6,54,78,23,99]
+list.append(344)
+print(list)
