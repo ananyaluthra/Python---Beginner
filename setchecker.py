@@ -1,0 +1,6 @@
+n=input("Enter any number here:")
+v=int(n)
+s=set()
+s.add(n)
+s.add(v)
+print(s)
